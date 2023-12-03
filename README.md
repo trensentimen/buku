@@ -33,6 +33,49 @@ Berikut adalah penjelasan dari masing-masing tujuan instruksional umum:
 •	Tujuan instruksional umum ini dapat digunakan sebagai acuan dalam mengembangkan tujuan instruksional khusus (TIK) untuk setiap materi yang akan dipelajari dalam tutorial.
 
 
+b)	Tujuan Instruksional Khusus (TIK)
+Berikut adalah tujuan instruksional khusus (TIK) untuk tutorial tentang analisis sentimen pemilihan presiden 2024 menggunakan machine learning, dengan materi yang telah diganti:
+
+Materi: Dasar-dasar Analisis Sentimen
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan konsep sentimen, polaritas, dan skala sentimen	Peserta didik diberikan materi tentang konsep sentimen, polaritas, dan skala sentimen.	Peserta didik dapat menjelaskan konsep sentimen, polaritas, dan skala sentimen dengan benar.
+Menjelaskan jenis-jenis analisis sentimen	Peserta didik diberikan materi tentang jenis-jenis analisis sentimen.	Peserta didik dapat menjelaskan jenis-jenis analisis sentimen dengan benar.
+Menjelaskan kelebihan dan kekurangan analisis sentimen	Peserta didik diberikan materi tentang kelebihan dan kekurangan analisis sentimen.	Peserta didik dapat menjelaskan kelebihan dan kekurangan analisis sentimen dengan benar.
+
+Materi: Pengumpulan Data Sentimen dan konsep crisp-dm
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan konsep pengumpulan data sentimen	Peserta didik diberikan materi tentang konsep pengumpulan data sentimen.	Peserta didik dapat menjelaskan konsep pengumpulan data sentimen dengan benar.
+Menjelaskan konsep CRISP-DM	Peserta didik diberikan materi tentang konsep CRISP-DM.	Peserta didik dapat menjelaskan konsep CRISP-DM dengan benar.
+Menerapkan konsep CRISP-DM untuk mengumpulkan data sentimen	Peserta didik diberikan contoh penerapan konsep CRISP-DM untuk mengumpulkan data sentimen.	Peserta didik dapat menerapkan konsep CRISP-DM untuk mengumpulkan data sentimen dengan benar.
+
+Materi: Naive Bayes untuk Analisis Sentimen
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan konsep Naive Bayes	Peserta didik diberikan materi tentang konsep Naive Bayes.	Peserta didik dapat menjelaskan konsep Naive Bayes dengan benar.
+Menjelaskan prinsip kerja Naive Bayes untuk analisis sentimen	Peserta didik diberikan materi tentang prinsip kerja Naive Bayes untuk analisis sentimen.	Peserta didik dapat menjelaskan prinsip kerja Naive Bayes untuk analisis sentimen dengan benar.
+Membangun model Naive Bayes untuk analisis sentimen	Peserta didik diberikan contoh kode Python untuk membangun model Naive Bayes untuk analisis sentimen.	Peserta didik dapat membangun model Naive Bayes untuk analisis sentimen dengan akurasi yang tinggi.
+
+Materi: Membangun Web Servis dengan Golang
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan konsep web servis	Peserta didik diberikan materi tentang konsep web servis.	Peserta didik dapat menjelaskan konsep web servis dengan benar.
+Menjelaskan cara membangun web servis dengan Golang	Peserta didik diberikan contoh kode Golang untuk membangun web servis.	Peserta didik dapat membangun web servis dengan Golang dengan benar.
+
+Materi: Integrasi dengan Cloud Functions
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan konsep Cloud Functions	Peserta didik diberikan materi tentang konsep Cloud Functions.	Peserta didik dapat menjelaskan konsep Cloud Functions dengan benar.
+Menjelaskan cara mengintegrasikan web servis dengan Cloud Functions	Peserta didik diberikan contoh kode untuk mengintegrasikan web servis dengan Cloud Functions.	Peserta didik dapat mengintegrasikan web servis dengan Cloud Functions dengan benar.
+
+Materi: Membangun Frontend dengan HTML, JAVASCRIPT dan CSS
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan struktur HTML	Peserta didik diberikan materi tentang struktur HTML.	Peserta didik dapat menjelaskan struktur HTML dengan benar.
+Menjelaskan elemen-elemen CSS	Peserta didik diberikan materi tentang elemen-elemen CSS.	Peserta didik dapat menjelaskan elemen-elemen CSS dengan benar.
+Menjelaskan konsep JavaScript	Peserta didik diberikan materi tentang konsep JavaScript.	Peserta didik dapat menjelaskan konsep JavaScript dengan benar.
+Membangun frontend untuk menampilkan hasil analisis sentimen	Peserta didik diberikan contoh kode HTML, CSS, dan JavaScript untuk menampilkan hasil analisis sentimen.	Peserta didik dapat membangun frontend untuk menampilkan hasil analisis sentimen dengan benar.
+
+Materi: Mengunggah Javascript menjadi CDN
+Terminal Behavior	Conditional of Demonstration or Rest	Standard of Performance
+Menjelaskan konsep CDN	Peserta didik diberikan materi tentang konsep CDN.	Peserta didik dapat menjelaskan konsep CDN dengan benar.
+Menjelaskan cara mengunggah Javascript ke CDN	Peserta didik diberikan materi tentang cara mengunggah Javascript ke CDN.	Peserta didik dapat mengunggah Javascript ke CDN dengan benar.
+Menjelaskan manfaat mengunggah Javascript ke CDN	Peserta didik diberikan materi tentang manfaat mengunggah Javascript ke CDN.	Peserta didik dapat menjelaskan manfaat mengunggah Javascript ke CDN dengan benar.
 
 
 # BAB 2
