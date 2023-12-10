@@ -79,3 +79,11 @@ Menjelaskan manfaat mengunggah Javascript ke CDN	Peserta didik diberikan materi 
 
 
 # BAB 2
+A.	PYTHON
+Python merupakan bahasa pemrograman tingkat tinggi yang dibuat oleh Guido Van Rossum dan dirilis pada tahun 1991 Python juga merupakan bahasa yanng sangat populer belakangan ini. Selain itu python juga merupakan Bahasa pemrograman yang multi fungsi contohnya python dapat digunakan untuk Machine Learning dan Deep Larning. Python memiliki penulisan sintaksis yang mudah selain itu python juga memiliki library yang lengkap dan memiliki dukungan komunitas yang kuat karena python bersifat open source. Untuk menuliskan source code python anda dapat menggunakan IDE seperti vs code, sublime text, PyCharm atau anda juga dapat menggunakan IDE online seperti Jupyter notebook dan google colab.[1] Python dapat digunakan untuk berbagai keperluan, seperti pengembangan aplikasi web, aplikasi desktop, IoT, dan berbagai aplikasi lainnya.
+Ada beberapa alasan mengapa Python menjadi pilihan utama, yaitu:
+1.	Python dapat berjalan di berbagai platform seperti Windows, Linux, macOS, Android, Raspberry Pi, dan lain-lain.
+2.	Python memiliki sintaks yang sederhana dan mirip dengan bahasa Inggris.
+3.	Sintaks Python memungkinkan penulisan kode yang lebih ringkas dibandingkan dengan bahasa pemrograman lain.
+4.	Python menggunakan interpreter, sehingga program dapat dieksekusi dengan cepat setelah selesai dibuat.
+5.	Python mendukung paradigma pemrograman prosedural, berorientasi objek, dan fungsional.[2]
