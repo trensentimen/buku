@@ -87,3 +87,9 @@ Ada beberapa alasan mengapa Python menjadi pilihan utama, yaitu:
 3.	Sintaks Python memungkinkan penulisan kode yang lebih ringkas dibandingkan dengan bahasa pemrograman lain.
 4.	Python menggunakan interpreter, sehingga program dapat dieksekusi dengan cepat setelah selesai dibuat.
 5.	Python mendukung paradigma pemrograman prosedural, berorientasi objek, dan fungsional.[2]
+
+B.	JUPYTER NOTEBOOK
+Jupyter Notebook adalah aplikasi berbasis web open source yang dapat digunakan untuk membuat dan membagikan dokumen. Dokumen ini berisi kode, persamaan matematika, visualisasi maupun text. Jupyter notebook ini dikelola oleh orang-orang yang tergabung pada Project Jupyter. [3]
+jupyter Notebook adalah singkatan dari tiga bahasa pemrograman: Julia (Ju), Python (Py), dan R. Aplikasi web gratis yang paling umum digunakan oleh data scientist. Aplikasi ini digunakan untuk membuat dan berbagi dokumen yang berisi kode, hasil perhitungan, visualisasi, dan teks. Tiga bahasa pemrograman yang disertakan dalam Jupyter Notebook sendiri penting bagi data scientist.[4]
+(https://algorit.ma/blog/cara-menggunakan-jupyter-notebook-2022/ )
+
