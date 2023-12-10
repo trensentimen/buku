@@ -96,3 +96,44 @@ jupyter Notebook adalah singkatan dari tiga bahasa pemrograman: Julia (Ju), Pyth
 
 C.	VS CODE
 Visual Studio Code (disingkat VCode) adalah perangkat lunak penyunting kode-sumber buatan Microsoft untuk Linux, macOS, dan Windows.[5] (https://techcrunch.com/2015/04/29/microsoft-shocks-the-world-with-visual-studio-code-a-free-code-editor-for-os-x-linux-and-windows/, ) Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, pengawakutuan, dan Git. Microsoft merilis sumber kode Visual Studio Code di repositori GitHub dengan lisensi MIT (Code - OSS), sedangkan biner yang dibangun oleh Microsoft tidak dirilis dengan lisensi MIT dan merupakan perangkat lunak berpemilik.[6] (https://id.wikipedia.org/wiki/Visual_Studio_Code )
+
+D.	POSTMAN
+Postman adalah alat pengembangan API yang komprehensif yang dapat digunakan untuk mengembangkan, menguji, dan mendokumentasikan API.
+
+Fitur-fitur Postman meliputi:
+
+1.	Pembuatan permintaan HTTP yang mudah: Postman memungkinkan pengembang untuk membuat permintaan HTTP menggunakan berbagai metode, seperti GET, POST, PUT, dan DELETE.
+2.	Pengelolaan variabel yang fleksibel: Postman menyediakan fitur variabel yang memudahkan pengelolaan nilai yang dapat digunakan secara dinamis dalam permintaan API.
+3.	Pengujian API yang komprehensif: Postman mendukung pengujian API manual dan otomatis, serta menyediakan berbagai fitur untuk membantu pengembang membuat skenario pengujian kompleks.
+4.	Dokumentasi API yang otomatis: Postman dapat digunakan untuk membuat dokumentasi otomatis dari koleksi permintaan API, sehingga memudahkan berbagi informasi dengan tim atau komunitas.
+5.	Kolaborasi yang mudah: Postman memungkinkan pengembang untuk berbagi koleksi dan lingkungan, sehingga memudahkan kolaborasi dalam pengembangan API.
+6.	Keamanan yang terjamin: Postman menggunakan enkripsi HTTPS untuk memastikan keamanan data yang dikirimkan melalui API.
+7.	Postman adalah alat yang berharga bagi pengembang API karena dapat membantu mereka mengembangkan, menguji, dan mendokumentasikan API dengan lebih mudah dan efisien.
+
+Berikut adalah beberapa contoh bagaimana Postman dapat digunakan:
+
+1.	Pengembang dapat menggunakan Postman untuk membuat permintaan HTTP ke API yang mereka buat untuk menguji fungsionalitas API.
+2.	Pengembang dapat menggunakan Postman untuk membuat skenario pengujian otomatis untuk API mereka.
+3.	Pengembang dapat menggunakan Postman untuk membuat dokumentasi API yang mudah dipahami oleh pengguna.
+4.	Tim pengembang dapat menggunakan Postman untuk berbagi koleksi permintaan dan lingkungan, sehingga memudahkan kolaborasi dalam pengembangan API.
+Postman adalah alat yang serbaguna yang dapat digunakan untuk berbagai keperluan pengembangan API. Dengan antarmuka yang ramah pengguna dan fitur-fitur yang komprehensif, Postman dapat membantu pengembang API meningkatkan produktivitas dan kualitas pekerjaan mereka.
+
+
+
+
+E.	GITHUB
+GitHub adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer. Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan wiki untuk setiap proyek.[7]( https://techcrunch.com/2012/07/09/github-pours-energies-into-enterprise-raises-100-million-from-power-vc-andreesen-horowitz/)  Pengembangan platform GitHub dimulai pada tanggal 19 Oktober 2007. Situs ini diluncurkan pada April 2008 oleh Tom Preston-Werner, Chris Wanstrath, dan PJ Hyett. [8](https://id.wikipedia.org/wiki/GitHub )
+
+F.	GOOGLE CLOUD PLATFORM
+Google Cloud Platform, (atau GCP) adalah kumpulan layanan komputasi awan yang ditawarkan oleh Google. GCP berjalan di atas infrastruktur yang sama yang digunakan oleh Google untuk produk internalnya, seperti Google Search, YouTube dan Gmail. Bersamaan dengan seperangkat alat manajemen, GCP menyediakan serangkaian layanan cloud modular termasuk komputasi, penyimpanan data, Analisis data dan pembelajaran mesin. Registrasi membutuhkan detail kartu kredit atau rekening bank [9]
+( https://id.wikipedia.org/wiki/Google_Cloud_Platform#cite_note-auto-2)
+G.	MONGODB
+MongoDBmerupakan  sebuah  sistem basis data yang berbasis dokumen (Document Oriented Database)dan termasuk sistem basis data yang menganut paham NoSQL. NoSQLsingkatan dari Not Only SQL, artinya sebuah sistem basis data tidak hanya harus menggunakan perintah SQLuntuk melakukan proses manipulasi data. MongoDBtidak memiliki tabel, kolom, dan baris. Pada MongoDByang ada hanyalah koleksi dan dokumen.  Dokumen yang terdapat dalam MongoDBdapat memiliki atribut yang berbeda dengan dokumen lain walaupun berada dalam satu koleksi.[10]
+
+H.	GOLANG
+Golang (Go Language) merupakan sebuah bahasa pemrograman yang mengkombinasikan  keamanan  dan performa untuk pengembangan sistem yang bersifat open  sourcedan  dikembangkan di Google  oleh  Rob Pike, Robert Griesemer, dan Ken Thompson beserta kontributor lainnya dalam komunitas pengembang open source.  Hingga saat ini, Golang mulai banyak digunakan pada Perusahaan-perusahaan besar maupun startup yang bergerak di bidang teknologi [11]
+
+I.	JAVASCRIPT
+JavaScript adalah bahasa pemrograman yang khusus untuk halaman web agar halaman web menjadi lebih hidup. Kalau dilihat dari suku katanya terdiri dari dua suku kata, yaitu Java dan Script. Java adalah Bahasa pemrograman berorientasi objek, sedangkan Script adalah serangkaian instruksi program.[12]
+Java Script dijalankan pada sisi klien yang akan memberikan kemampuan fitur-fitur tambahan halaman web yang lebih baik dibandingkan fitur-fitur yang terdapat pada HTML [13].
+ 
