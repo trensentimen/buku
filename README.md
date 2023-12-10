@@ -93,3 +93,6 @@ Jupyter Notebook adalah aplikasi berbasis web open source yang dapat digunakan u
 jupyter Notebook adalah singkatan dari tiga bahasa pemrograman: Julia (Ju), Python (Py), dan R. Aplikasi web gratis yang paling umum digunakan oleh data scientist. Aplikasi ini digunakan untuk membuat dan berbagi dokumen yang berisi kode, hasil perhitungan, visualisasi, dan teks. Tiga bahasa pemrograman yang disertakan dalam Jupyter Notebook sendiri penting bagi data scientist.[4]
 (https://algorit.ma/blog/cara-menggunakan-jupyter-notebook-2022/ )
 
+
+C.	VS CODE
+Visual Studio Code (disingkat VCode) adalah perangkat lunak penyunting kode-sumber buatan Microsoft untuk Linux, macOS, dan Windows.[5] (https://techcrunch.com/2015/04/29/microsoft-shocks-the-world-with-visual-studio-code-a-free-code-editor-for-os-x-linux-and-windows/, ) Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, pengawakutuan, dan Git. Microsoft merilis sumber kode Visual Studio Code di repositori GitHub dengan lisensi MIT (Code - OSS), sedangkan biner yang dibangun oleh Microsoft tidak dirilis dengan lisensi MIT dan merupakan perangkat lunak berpemilik.[6] (https://id.wikipedia.org/wiki/Visual_Studio_Code )
