@@ -136,4 +136,8 @@ Golang (Go Language) merupakan sebuah bahasa pemrograman yang mengkombinasikan  
 I.	JAVASCRIPT
 JavaScript adalah bahasa pemrograman yang khusus untuk halaman web agar halaman web menjadi lebih hidup. Kalau dilihat dari suku katanya terdiri dari dua suku kata, yaitu Java dan Script. Java adalah Bahasa pemrograman berorientasi objek, sedangkan Script adalah serangkaian instruksi program.[12]
 Java Script dijalankan pada sisi klien yang akan memberikan kemampuan fitur-fitur tambahan halaman web yang lebih baik dibandingkan fitur-fitur yang terdapat pada HTML [13].
+
+
+
+
  
